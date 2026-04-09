@@ -15,6 +15,10 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
+# 存档文件
+以LZMA算法压缩，归档格式7z.
+见根目录 `save.7z` 文件。
+
 # 使用总则
 
 1. MC还原海大项目（下称本项目）是上海海洋大学Minecraft社团（下称本社团）的基于Minecraft创作的作品，其著作权归属本社团及 珀尔（Poer） 与 雨落雨归（Mulin）二位作者所有。其著作权受法律保护。
