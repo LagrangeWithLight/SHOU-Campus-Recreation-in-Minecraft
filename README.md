@@ -17,7 +17,12 @@ This work is licensed under a
 
 # 存档文件
 以LZMA算法压缩，归档格式7z.
+## 直接存储
 见根目录 `save.7z` 文件。
+## 网盘下载
+夸克网盘
+链接：https://pan.quark.cn/s/6821cc7ae572
+提取码：H5VZ
 
 # 使用总则
 
