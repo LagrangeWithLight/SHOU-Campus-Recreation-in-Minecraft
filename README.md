@@ -1,4 +1,4 @@
-# SHOU-Reconstitution-in-Minecraft
+# SHOU-Campus-Recreation-in-Minecraft
 
 # 许可信息
 本作品采用CC BY-NC-SA 4.0 许可
@@ -23,6 +23,9 @@ This work is licensed under a
 夸克网盘
 链接：https://pan.quark.cn/s/6821cc7ae572
 提取码：H5VZ
+
+# 鸣谢
+见[credits.md](./credits.md)
 
 # 使用总则
 
